@@ -8,6 +8,7 @@ Team Members:
 
 ## Demo
 - You can check out the demo [here](https://glacial-waters-37703.herokuapp.com/).
+
 Note: Facebook OAuth needs to be fixed - please create an account with an email address instead.
 
 ## Motivation
